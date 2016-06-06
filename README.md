@@ -1,2 +1,1 @@
-# mitosha
-shared memory minimal tool
+mitosha (minitool for shared memory) - minimalistic shared memory framework on C.
