@@ -1,0 +1,7 @@
+.build
+bin
+include/mutest*
+lib
+deps
+misc/mitosha.pro.user
+

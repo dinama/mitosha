@@ -1,0 +1,11 @@
+BasedOnStyle: LLVM
+IndentWidth: 2
+TabWidth: 2
+UseTab: Never
+ColumnLimit: 120
+AllowShortFunctionsOnASingleLine: Inline
+BreakBeforeBraces: Attach
+SpaceAfterCStyleCast: true
+PointerAlignment: Left
+AlignConsecutiveDeclarations: false
+SortIncludes: false
